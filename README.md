@@ -1,5 +1,6 @@
 # Census-Bureau-Database---Python-Project
 This is a project on data exploration on Census Bureau Database extracted from http://www.census.gov/ftp/pub/DES/www/welcome.html. 
+
 Below is the jupyter notebook project link 
 http://localhost:8888/notebooks/Census%20Bureau%20Database%20-%20Data%20Analysis%20with%20Pandas.ipynb
 
